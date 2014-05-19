@@ -10,7 +10,7 @@ namespace NExp.Model.Identity
     {
 
         public Task CreateAsync(TUser user)
-        {
+        { 
             throw new NotImplementedException();
         }
 
